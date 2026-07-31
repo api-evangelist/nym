@@ -1,0 +1,23 @@
+# Nym
+
+> Nym is a healthcare technology company providing autonomous medical coding for health systems, hospitals, and physician groups. Its proprietary Clinical Language Understanding (CLU) engine reads clinical documentation and assigns accurate medical codes (ICD-10, CPT, E/M) using transparent, rules-based coding logic rather than generic NLP. Nym is not currently a public API provider — it exposes no developer API, SDK, or developer portal — so this profile is a company/network entry, not an API catalog.
+
+## Company
+- [Nym](https://nym.health/): Autonomous medical coding for revenue cycle management.
+- [About](https://nym.health/about/): Company overview and mission.
+- [Why Nym](https://nym.health/why-nym/): Product positioning and differentiation.
+- [The Technology](https://nym.health/autonomous-medical-coding/the-technology/): Clinical Language Understanding (CLU) and rules-based coding.
+- [Nym Engine](https://nym.health/autonomous-medical-coding/nym-engine/): The autonomous coding engine.
+- [Implementation](https://nym.health/autonomous-medical-coding/implementation/): How Nym is deployed into health systems.
+- [Contact](https://nym.health/contact-us/): Sales and support contact.
+
+## Resources
+- [Blog](https://blog.nym.health/): Company blog.
+- [Resources / Content Library](https://nym.health/resources/): Whitepapers and case studies.
+- [Education Hub](https://nym.health/education-hub/): Medical coding education resources.
+- [Glossary](https://nym.health/glossary/): Medical coding terminology.
+
+## Legal
+- [Privacy Policy](https://nym.health/privacy-policy/)
+- [Terms & Conditions](https://nym.health/terms-conditions/)
+- [Cookie Policy](https://nym.health/cookie-policy/)

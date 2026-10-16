@@ -2,6 +2,27 @@
   "repo": "nym",
   "feeds": [
     {
+      "source": "https://blog.nym.health/rss.xml",
+      "feed_url": "https://blog.nym.health/rss.xml",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    },
+    {
+      "source": "https://blog.nym.health/",
+      "feed_url": "https://blog.nym.health/atom.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://nym.health/resources/",
+      "feed_url": "https://nym.health/resources/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
       "source": "https://nym.health/",
       "feed_url": "https://nym.health/",
       "title": "",
@@ -9,6 +30,6 @@
       "method": "none"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "post_count": 1,
+  "fetched": "2026-10-10T13:15:00Z"
 }
